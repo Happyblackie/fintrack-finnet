@@ -13,7 +13,7 @@ A full-stack portfolio and investment management platform built with a **Laravel
 ### Demo Credentials
 
 - **Email:** `analyst@finnet.co.ke`
-- **Password:** `password`
+- **Password:** `FinTrack2026!`
 
 ---
 
